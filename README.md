@@ -5,7 +5,6 @@ I love looking through other people's reading lists and bookshelves, so here's m
 <!-- alphabetical, ignoring The/A/An: - Title — Author -->
 
 - Adventures of Huckleberry Finn — Mark Twain
-- Alice's Adventures in Wonderland — Lewis Carroll
 - All the Bright Places — Jennifer Niven
 - All the Light We Cannot See — Anthony Doerr
 - Ambition Monster — Jennifer Romolini
@@ -26,7 +25,6 @@ I love looking through other people's reading lists and bookshelves, so here's m
 - The Fault in Our Stars — John Green
 - Frankenstein — Mary Shelley
 - The God of Small Things — Arundhati Roy
-- Goosebumps — R. L. Stine
 - Harry Potter and the Chamber of Secrets — J. K. Rowling
 - The Haunting — Margaret Mahy
 - The Hitchhiker's Guide to the Galaxy — Douglas Adams
