@@ -60,20 +60,19 @@ A running list of books I've read.
 - Where the Crawdads Sing — Delia Owens
 - Wuthering Heights — Emily Brontë
 
+# tbr
 
-#tbr
-Embassytown — China Miéville
-Reasons and Persons — Derek Parfit
-The Three Body Problem — Liu Cixin
-The Tattooist of Auschwitz — Heather Morris
-Delirium series — Lauren Oliver
-Surely You're Joking, Mr. Feynman — Richard P. Feynman
-Man's Search for Meaning — Viktor E. Frankl
-Do Androids Dream of Electric Sheep? — Philip K. Dick
-Moby Dick — Herman Melville
-The Odyssey — Homer
-Vampires in the Lemon Grove — Karen Russell
-And the Mountains Echoed — Khaled Hosseini
-Flowers for Algernon — Daniel Keyes
-A Psalm for the Wild-Built — Becky Chambers
-
+- Embassytown — China Miéville
+- Reasons and Persons — Derek Parfit
+- The Three Body Problem — Liu Cixin
+- The Tattooist of Auschwitz — Heather Morris
+- Delirium series — Lauren Oliver
+- Surely You're Joking, Mr. Feynman — Richard P. Feynman
+- Man's Search for Meaning — Viktor E. Frankl
+- Do Androids Dream of Electric Sheep? — Philip K. Dick
+- Moby Dick — Herman Melville
+- The Odyssey — Homer
+- Vampires in the Lemon Grove — Karen Russell
+- And the Mountains Echoed — Khaled Hosseini
+- Flowers for Algernon — Daniel Keyes
+- A Psalm for the Wild-Built — Becky Chambers
