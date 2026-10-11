@@ -1,4 +1,3 @@
-
 A running list of books I've read.
 
 <!-- alphabetical, ignoring The/A/An: - Title — Author -->
@@ -11,7 +10,7 @@ A running list of books I've read.
 - Animal Farm — George Orwell
 - An Astronaut's Guide to Life on Earth — Chris Hadfield
 - Azadi — Arundhati Roy
-- The Bhagavad Gita — Vyasa
+- The Bhagavad Gita — Ranchor Prime
 - The Book Thief — Markus Zusak
 - Call Me by Your Name — André Aciman
 - Catching Fire — Suzanne Collins
