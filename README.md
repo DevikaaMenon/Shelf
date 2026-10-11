@@ -59,3 +59,4 @@ A running list of books I've read.
 - The Trial — Franz Kafka
 - The Unbearable Lightness of Being — Milan Kundera
 - Where the Crawdads Sing — Delia Owens
+- Wuthering Heights — Emily Brontë
