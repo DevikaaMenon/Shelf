@@ -1,6 +1,5 @@
-# books
 
-I love looking through other people's reading lists and bookshelves, so here's mine.
+A running list of books I've read.
 
 <!-- alphabetical, ignoring The/A/An: - Title — Author -->
 
