@@ -48,7 +48,6 @@ A running list of books I've read.
 - The Perks of Being a Wallflower — Stephen Chbosky
 - Pompeii — Robert Harris
 - Pride and Prejudice — Jane Austen
-- Sachin Tendulkar
 - Sapiens — Yuval Noah Harari
 - The Secret Seven — Enid Blyton
 - Shantaram — Gregory David Roberts
@@ -60,3 +59,21 @@ A running list of books I've read.
 - The Unbearable Lightness of Being — Milan Kundera
 - Where the Crawdads Sing — Delia Owens
 - Wuthering Heights — Emily Brontë
+
+
+#tbr
+Embassytown — China Miéville
+Reasons and Persons — Derek Parfit
+The Three Body Problem — Liu Cixin
+The Tattooist of Auschwitz — Heather Morris
+Delirium series — Lauren Oliver
+Surely You're Joking, Mr. Feynman — Richard P. Feynman
+Man's Search for Meaning — Viktor E. Frankl
+Do Androids Dream of Electric Sheep? — Philip K. Dick
+Moby Dick — Herman Melville
+The Odyssey — Homer
+Vampires in the Lemon Grove — Karen Russell
+And the Mountains Echoed — Khaled Hosseini
+Flowers for Algernon — Daniel Keyes
+A Psalm for the Wild-Built — Becky Chambers
+
