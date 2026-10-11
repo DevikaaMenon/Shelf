@@ -1,0 +1,65 @@
+# books
+
+I love looking through other people's reading lists and bookshelves, so here's mine.
+
+<!-- alphabetical, ignoring The/A/An: - Title — Author -->
+
+- Adventures of Huckleberry Finn — Mark Twain
+- Alice's Adventures in Wonderland — Lewis Carroll
+- All the Bright Places — Jennifer Niven
+- All the Light We Cannot See — Anthony Doerr
+- Ambition Monster — Jennifer Romolini
+- Angels & Demons — Dan Brown
+- Animal Farm — George Orwell
+- An Astronaut's Guide to Life on Earth — Chris Hadfield
+- Azadi — Arundhati Roy
+- The Bhagavad Gita — Vyasa
+- The Book Thief — Markus Zusak
+- Call Me by Your Name — André Aciman
+- Catching Fire — Suzanne Collins
+- Crime and Punishment — Fyodor Dostoevsky
+- David Copperfield — Charles Dickens
+- Deep Work — Cal Newport
+- Demon Copperhead — Barbara Kingsolver
+- The Diary of a Young Girl — Anne Frank
+- Emma — Jane Austen
+- The Fault in Our Stars — John Green
+- Frankenstein — Mary Shelley
+- The God of Small Things — Arundhati Roy
+- Goosebumps — R. L. Stine
+- Harry Potter and the Chamber of Secrets — J. K. Rowling
+- The Haunting — Margaret Mahy
+- The Hitchhiker's Guide to the Galaxy — Douglas Adams
+- The Hunger Games — Suzanne Collins
+- I Am Malala — Malala Yousafzai
+- Kafka on the Shore — Haruki Murakami
+- Life of Pi — Yann Martel
+- The Lion, the Witch and the Wardrobe — C. S. Lewis
+- The Little Prince — Antoine de Saint-Exupéry
+- Lolita — Vladimir Nabokov
+- Looking for Alaska — John Green
+- The Magic Library — Jostein Gaarder
+- A Man Called Ove — Fredrik Backman
+- The Metamorphosis — Franz Kafka
+- The Ministry of Utmost Happiness — Arundhati Roy
+- Mockingjay — Suzanne Collins
+- Mother Mary Comes to Me — Arundhati Roy
+- Never Let Me Go — Kazuo Ishiguro
+- Nineteen Eighty-Four — George Orwell
+- The Ogre of Oglefort — Eva Ibbotson
+- On Earth We're Briefly Gorgeous — Ocean Vuong
+- One Hundred Years of Solitude — Gabriel García Márquez
+- The Perks of Being a Wallflower — Stephen Chbosky
+- Pompeii — Robert Harris
+- Pride and Prejudice — Jane Austen
+- Sachin Tendulkar
+- Sapiens — Yuval Noah Harari
+- The Secret Seven — Enid Blyton
+- Shantaram — Gregory David Roberts
+- Spying on Whales — Nick Pyenson
+- The Three Musketeers — Alexandre Dumas
+- The Time Machine — H. G. Wells
+- To Kill a Mockingbird — Harper Lee
+- The Trial — Franz Kafka
+- The Unbearable Lightness of Being — Milan Kundera
+- Where the Crawdads Sing — Delia Owens
